@@ -1,0 +1,4 @@
+../Core/APP/app.c:40:5:main	56	static
+../Core/APP/app.c:74:13:initialTask	64	static
+../Core/APP/app.c:109:13:sensoresRntTask	24	static
+../Core/APP/app.c:124:13:le_sensores	8	static

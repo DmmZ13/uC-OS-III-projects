@@ -1,0 +1,16 @@
+../Core/uC-LIB/lib_ascii.c:145:14:ASCII_IsAlpha	24	static
+../Core/uC-LIB/lib_ascii.c:175:14:ASCII_IsAlphaNum	24	static
+../Core/uC-LIB/lib_ascii.c:205:14:ASCII_IsLower	24	static
+../Core/uC-LIB/lib_ascii.c:235:14:ASCII_IsUpper	24	static
+../Core/uC-LIB/lib_ascii.c:265:14:ASCII_IsDig	24	static
+../Core/uC-LIB/lib_ascii.c:294:14:ASCII_IsDigOct	24	static
+../Core/uC-LIB/lib_ascii.c:324:14:ASCII_IsDigHex	24	static
+../Core/uC-LIB/lib_ascii.c:357:14:ASCII_IsBlank	24	static
+../Core/uC-LIB/lib_ascii.c:391:14:ASCII_IsSpace	24	static
+../Core/uC-LIB/lib_ascii.c:425:14:ASCII_IsPrint	24	static
+../Core/uC-LIB/lib_ascii.c:459:14:ASCII_IsGraph	24	static
+../Core/uC-LIB/lib_ascii.c:489:14:ASCII_IsPunct	24	static
+../Core/uC-LIB/lib_ascii.c:523:14:ASCII_IsCtrl	24	static
+../Core/uC-LIB/lib_ascii.c:561:11:ASCII_ToLower	24	static
+../Core/uC-LIB/lib_ascii.c:599:11:ASCII_ToUpper	24	static
+../Core/uC-LIB/lib_ascii.c:630:14:ASCII_Cmp	24	static

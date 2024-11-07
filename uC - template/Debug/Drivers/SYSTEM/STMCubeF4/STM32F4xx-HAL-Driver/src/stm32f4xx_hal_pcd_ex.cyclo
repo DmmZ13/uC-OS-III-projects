@@ -1,0 +1,2 @@
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_hal_pcd_ex.c:91:19:HAL_PCDEx_SetTxFiFo	3
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_hal_pcd_ex.c:133:19:HAL_PCDEx_SetRxFiFo	1

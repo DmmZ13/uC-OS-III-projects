@@ -1,0 +1,17 @@
+../Core/uC-OS3/Source/os_tmr.c:101:7:OSTmrCreate	12
+../Core/uC-OS3/Source/os_tmr.c:238:14:OSTmrDel	9
+../Core/uC-OS3/Source/os_tmr.c:370:10:OSTmrRemainGet	13
+../Core/uC-OS3/Source/os_tmr.c:508:7:OSTmrSet	10
+../Core/uC-OS3/Source/os_tmr.c:618:14:OSTmrStart	11
+../Core/uC-OS3/Source/os_tmr.c:749:11:OSTmrStateGet	6
+../Core/uC-OS3/Source/os_tmr.c:854:14:OSTmrStop	15
+../Core/uC-OS3/Source/os_tmr.c:991:7:OS_TmrClr	1
+../Core/uC-OS3/Source/os_tmr.c:1091:7:OS_TmrInit	5
+../Core/uC-OS3/Source/os_tmr.c:1175:6:OS_TmrLink	7
+../Core/uC-OS3/Source/os_tmr.c:1269:7:OS_TmrUnlink	9
+../Core/uC-OS3/Source/os_tmr.c:1360:7:OS_TmrTask	11
+../Core/uC-OS3/Source/os_tmr.c:1477:15:OS_TmrLock	1
+../Core/uC-OS3/Source/os_tmr.c:1486:15:OS_TmrUnlock	1
+../Core/uC-OS3/Source/os_tmr.c:1509:15:OS_TmrCondCreate	1
+../Core/uC-OS3/Source/os_tmr.c:1541:15:OS_TmrCondWait	5
+../Core/uC-OS3/Source/os_tmr.c:1629:15:OS_TmrCondSignal	2

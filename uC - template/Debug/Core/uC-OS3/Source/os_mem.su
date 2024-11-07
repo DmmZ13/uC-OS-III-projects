@@ -1,0 +1,4 @@
+../Core/uC-OS3/Source/os_mem.c:72:7:OSMemCreate	48	static
+../Core/uC-OS3/Source/os_mem.c:203:8:OSMemGet	24	static
+../Core/uC-OS3/Source/os_mem.c:282:7:OSMemPut	32	static
+../Core/uC-OS3/Source/os_mem.c:385:7:OS_MemInit	16	static

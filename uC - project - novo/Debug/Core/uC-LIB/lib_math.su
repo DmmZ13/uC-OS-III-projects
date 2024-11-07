@@ -1,0 +1,4 @@
+../Core/uC-LIB/lib_math.c:136:7:Math_Init	8	static
+../Core/uC-LIB/lib_math.c:164:7:Math_RandSetSeed	24	static
+../Core/uC-LIB/lib_math.c:204:11:Math_Rand	24	static
+../Core/uC-LIB/lib_math.c:261:11:Math_RandSeed	24	static

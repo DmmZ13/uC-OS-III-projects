@@ -1,0 +1,12 @@
+../Core/uC-OS3/Ports/ARM-Cortex-M/ARMv7-M/os_cpu_c.c:90:7:OSIdleTaskHook	8	static
+../Core/uC-OS3/Ports/ARM-Cortex-M/ARMv7-M/os_cpu_c.c:114:7:OSInitHook	16	static
+../Core/uC-OS3/Ports/ARM-Cortex-M/ARMv7-M/os_cpu_c.c:177:7:OSStatTaskHook	8	static
+../Core/uC-OS3/Ports/ARM-Cortex-M/ARMv7-M/os_cpu_c.c:199:7:OSTaskCreateHook	16	static
+../Core/uC-OS3/Ports/ARM-Cortex-M/ARMv7-M/os_cpu_c.c:223:7:OSTaskDelHook	16	static
+../Core/uC-OS3/Ports/ARM-Cortex-M/ARMv7-M/os_cpu_c.c:248:7:OSTaskReturnHook	16	static
+../Core/uC-OS3/Ports/ARM-Cortex-M/ARMv7-M/os_cpu_c.c:438:11:OSTaskStkInit	32	static
+../Core/uC-OS3/Ports/ARM-Cortex-M/ARMv7-M/os_cpu_c.c:493:7:OSTaskSwHook	16	static
+../Core/uC-OS3/Ports/ARM-Cortex-M/ARMv7-M/os_cpu_c.c:560:7:OSTimeTickHook	8	static
+../Core/uC-OS3/Ports/ARM-Cortex-M/ARMv7-M/os_cpu_c.c:583:7:OS_CPU_SysTickHandler	16	static
+../Core/uC-OS3/Ports/ARM-Cortex-M/ARMv7-M/os_cpu_c.c:612:7:OS_CPU_SysTickInitFreq	24	static
+../Core/uC-OS3/Ports/ARM-Cortex-M/ARMv7-M/os_cpu_c.c:641:7:OS_CPU_SysTickInit	24	static

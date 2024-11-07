@@ -1,0 +1,10 @@
+14:32:34 **** Incremental Build of configuration Debug for project uC - template ****
+make -j8 all 
+arm-none-eabi-size  uC\ -\ template.elf 
+   text	   data	    bss	    dec	    hex	filename
+  18388	     20	   7428	  25836	   64ec	uC - template.elf
+Finished building: default.size.stdout
+ 
+
+14:32:35 Build Finished. 0 errors, 0 warnings. (took 488ms)
+

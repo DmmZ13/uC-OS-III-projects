@@ -1,0 +1,7 @@
+../Core/uC-OS3/Source/os_sem.c:65:7:OSSemCreate	32	static
+../Core/uC-OS3/Source/os_sem.c:173:13:OSSemDel	48	static
+../Core/uC-OS3/Source/os_sem.c:340:13:OSSemPend	32	static
+../Core/uC-OS3/Source/os_sem.c:562:13:OSSemPendAbort	48	static
+../Core/uC-OS3/Source/os_sem.c:687:13:OSSemPost	56	static
+../Core/uC-OS3/Source/os_sem.c:826:7:OSSemSet	32	static
+../Core/uC-OS3/Source/os_sem.c:895:7:OS_SemClr	16	static

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;uC - project - novo/Core/APP/config/stmm32f4xx_hal_msp.c&apos; to &apos;stm32f4xx_hal_msp.c&apos;" description="Rename resource &apos;stmm32f4xx_hal_msp.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/APP/config/stmm32f4xx_hal_msp.c" name="stm32f4xx_hal_msp.c" stamp="1730918874529" updateReferences="true"/>
+</session>

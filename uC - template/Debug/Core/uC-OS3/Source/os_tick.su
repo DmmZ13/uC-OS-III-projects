@@ -1,0 +1,6 @@
+../Core/uC-OS3/Source/os_tick.c:60:7:OS_TickInit	16	static
+../Core/uC-OS3/Source/os_tick.c:94:7:OS_TickUpdate	24	static
+../Core/uC-OS3/Source/os_tick.c:157:14:OS_TickListInsert	48	static
+../Core/uC-OS3/Source/os_tick.c:297:7:OS_TickListInsertDly	40	static
+../Core/uC-OS3/Source/os_tick.c:377:7:OS_TickListRemove	32	static
+../Core/uC-OS3/Source/os_tick.c:459:15:OS_TickListUpdate	32	static

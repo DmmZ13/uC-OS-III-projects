@@ -1,0 +1,13 @@
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_hal_rng.c:123:19:HAL_RNG_Init	4
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_hal_rng.c:162:19:HAL_RNG_DeInit	2
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_hal_rng.c:194:13:HAL_RNG_MspInit	1
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_hal_rng.c:209:13:HAL_RNG_MspDeInit	1
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_hal_rng.c:248:19:HAL_RNG_GenerateRandomNumber	5
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_hal_rng.c:302:19:HAL_RNG_GenerateRandomNumber_IT	3
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_hal_rng.c:353:6:HAL_RNG_IRQHandler	5
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_hal_rng.c:395:10:HAL_RNG_GetRandomNumber	2
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_hal_rng.c:414:10:HAL_RNG_GetRandomNumber_IT	2
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_hal_rng.c:440:10:HAL_RNG_ReadLastRandomNumber	1
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_hal_rng.c:452:13:HAL_RNG_ReadyDataCallback	1
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_hal_rng.c:468:13:HAL_RNG_ErrorCallback	1
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_hal_rng.c:502:22:HAL_RNG_GetState	1

@@ -1,0 +1,4 @@
+../Core/APP/config/main.c:66:6:SystemClock_Config	3
+../Core/APP/config/main.c:112:6:MX_DAC_Init	4
+../Core/APP/config/main.c:159:6:MX_GPIO_Init	1
+../Core/APP/config/main.c:191:6:Error_Handler	1

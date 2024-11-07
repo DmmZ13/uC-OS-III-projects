@@ -1,0 +1,14 @@
+17:22:01 **** Incremental Build of configuration Debug for project uC - projeto1 ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/APP/config/stm32f4xx_hal_msp.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx -c -I"C:/Users/Visita/Downloads/Modelo-ucOS3/SYSTEM" -I"C:/Users/Visita/Downloads/Modelo-ucOS3/SYSTEM/STMCubeF4/CMSIS" -I"C:/Users/Visita/Downloads/Modelo-ucOS3/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/inc" -I"C:/Users/Visita/Downloads/Modelo-ucOS3/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/inc/Legacy" -I"C:/Users/Visita/Downloads/Modelo-ucOS3/uC-CPU" -I"C:/Users/Visita/Downloads/Modelo-ucOS3/uC-CPU/ARM-Cortex-M/ARMv7-M/GNU" -I"C:/Users/Visita/Downloads/Modelo-ucOS3/uC-LIB" -I"C:/Users/Visita/Downloads/Modelo-ucOS3/uC-LIB/Cfg/Template" -I"C:/Users/Visita/Downloads/Modelo-ucOS3/uC-OS3/Ports/ARM-Cortex-M/ARMv7-M/GNU" -I"C:/Users/Visita/Downloads/Modelo-ucOS3/uC-OS3/Source" -I"C:/Users/Visita/Downloads/Modelo-ucOS3/uC-LIB/Ports/ARM-Cortex-M4/GNU" -I"C:/Users/Visita/Documents/uC-tutorial/uC - projeto1/Core/APP/config" -I"C:/Users/Visita/Documents/uC-tutorial/uC - projeto1/Core/BSP" -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/APP/config/stm32f4xx_hal_msp.d" -MT"Core/APP/config/stm32f4xx_hal_msp.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/APP/config/stm32f4xx_hal_msp.o"
+../Core/APP/config/stm32f4xx_hal_msp.c: In function 'HAL_DAC_MspInit':
+../Core/APP/config/stm32f4xx_hal_msp.c:107:28: error: 'GPIO_PULL' undeclared (first use in this function); did you mean 'GPIO_NOPULL'?
+  107 |     GPIO_InitStruct.Pull = GPIO_PULL;
+      |                            ^~~~~~~~~
+      |                            GPIO_NOPULL
+../Core/APP/config/stm32f4xx_hal_msp.c:107:28: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [Core/APP/config/subdir.mk:25: Core/APP/config/stm32f4xx_hal_msp.o] Error 1
+"make -j8 all" terminated with exit code 2. Build might be incomplete.
+
+17:22:02 Build Failed. 2 errors, 0 warnings. (took 645ms)
+

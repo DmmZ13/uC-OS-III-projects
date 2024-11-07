@@ -1,0 +1,3 @@
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_hal_rcc_ex.c:109:6:HAL_RCC_DeInit	4	static
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_hal_rcc_ex.c:1882:19:HAL_RCCEx_PeriphCLKConfig	48	static,ignoring_inline_asm
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_hal_rcc_ex.c:2009:6:HAL_RCCEx_GetPeriphCLKConfig	40	static,ignoring_inline_asm

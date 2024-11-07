@@ -1,0 +1,9 @@
+../Core/APP/config/os_app_hooks.c:44:7:App_OS_SetAllHooks	1
+../Core/APP/config/os_app_hooks.c:85:7:App_OS_ClrAllHooks	1
+../Core/APP/config/os_app_hooks.c:126:7:App_OS_IdleTaskHook	1
+../Core/APP/config/os_app_hooks.c:164:7:App_OS_StatTaskHook	1
+../Core/APP/config/os_app_hooks.c:182:7:App_OS_TaskCreateHook	1
+../Core/APP/config/os_app_hooks.c:200:7:App_OS_TaskDelHook	1
+../Core/APP/config/os_app_hooks.c:219:7:App_OS_TaskReturnHook	1
+../Core/APP/config/os_app_hooks.c:241:7:App_OS_TaskSwHook	1
+../Core/APP/config/os_app_hooks.c:259:7:App_OS_TimeTickHook	1

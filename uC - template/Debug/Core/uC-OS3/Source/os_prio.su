@@ -1,0 +1,4 @@
+../Core/uC-OS3/Source/os_prio.c:48:7:OS_PrioInit	16	static
+../Core/uC-OS3/Source/os_prio.c:78:10:OS_PrioGetHighest	8	static
+../Core/uC-OS3/Source/os_prio.c:123:7:OS_PrioInsert	16	static
+../Core/uC-OS3/Source/os_prio.c:161:7:OS_PrioRemove	16	static

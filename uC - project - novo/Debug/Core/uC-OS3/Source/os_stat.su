@@ -1,0 +1,4 @@
+../Core/uC-OS3/Source/os_stat.c:52:7:OSStatReset	24	static
+../Core/uC-OS3/Source/os_stat.c:191:7:OSStatTaskCPUUsageInit	32	static
+../Core/uC-OS3/Source/os_stat.c:291:7:OS_StatTask	56	static
+../Core/uC-OS3/Source/os_stat.c:524:7:OS_StatTaskInit	64	static

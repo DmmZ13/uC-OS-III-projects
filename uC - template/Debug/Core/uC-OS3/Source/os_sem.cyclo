@@ -1,0 +1,7 @@
+../Core/uC-OS3/Source/os_sem.c:65:7:OSSemCreate	4
+../Core/uC-OS3/Source/os_sem.c:173:13:OSSemDel	9
+../Core/uC-OS3/Source/os_sem.c:340:13:OSSemPend	15
+../Core/uC-OS3/Source/os_sem.c:562:13:OSSemPendAbort	15
+../Core/uC-OS3/Source/os_sem.c:687:13:OSSemPost	15
+../Core/uC-OS3/Source/os_sem.c:826:7:OSSemSet	6
+../Core/uC-OS3/Source/os_sem.c:895:7:OS_SemClr	1

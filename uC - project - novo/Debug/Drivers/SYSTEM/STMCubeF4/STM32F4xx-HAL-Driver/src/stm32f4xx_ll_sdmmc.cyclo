@@ -1,0 +1,13 @@
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_ll_sdmmc.c:217:19:SDIO_Init	1
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_ll_sdmmc.c:269:10:SDIO_ReadFIFO	1
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_ll_sdmmc.c:281:19:SDIO_WriteFIFO	1
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_ll_sdmmc.c:313:19:SDIO_PowerState_ON	1
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_ll_sdmmc.c:326:19:SDIO_PowerState_OFF	1
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_ll_sdmmc.c:343:10:SDIO_GetPowerState	1
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_ll_sdmmc.c:356:19:SDIO_SendCommand	1
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_ll_sdmmc.c:386:9:SDIO_GetCommandResponse	1
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_ll_sdmmc.c:402:10:SDIO_GetResponse	1
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_ll_sdmmc.c:423:19:SDIO_DataConfig	1
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_ll_sdmmc.c:458:10:SDIO_GetDataCounter	1
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_ll_sdmmc.c:468:10:SDIO_GetFIFOCount	1
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_ll_sdmmc.c:482:19:SDIO_SetSDIOReadWaitMode	1

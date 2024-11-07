@@ -1,0 +1,4 @@
+../Core/APP/config/main.c:66:6:SystemClock_Config	88	static
+../Core/APP/config/main.c:112:6:MX_DAC_Init	16	static
+../Core/APP/config/main.c:159:6:MX_GPIO_Init	48	static
+../Core/APP/config/main.c:191:6:Error_Handler	4	static,ignoring_inline_asm

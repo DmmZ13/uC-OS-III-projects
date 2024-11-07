@@ -1,0 +1,9 @@
+../Core/uC-OS3/Source/os_flag.c:61:7:OSFlagCreate	32	static
+../Core/uC-OS3/Source/os_flag.c:166:13:OSFlagDel	48	static
+../Core/uC-OS3/Source/os_flag.c:351:11:OSFlagPend	40	static
+../Core/uC-OS3/Source/os_flag.c:752:13:OSFlagPendAbort	48	static
+../Core/uC-OS3/Source/os_flag.c:865:11:OSFlagPendGetFlagsRdy	24	static
+../Core/uC-OS3/Source/os_flag.c:942:11:OSFlagPost	56	static
+../Core/uC-OS3/Source/os_flag.c:1130:7:OS_FlagBlock	24	static
+../Core/uC-OS3/Source/os_flag.c:1162:7:OS_FlagClr	24	static
+../Core/uC-OS3/Source/os_flag.c:1259:8:OS_FlagTaskRdy	24	static

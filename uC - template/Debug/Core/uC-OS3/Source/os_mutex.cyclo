@@ -1,0 +1,10 @@
+../Core/uC-OS3/Source/os_mutex.c:61:7:OSMutexCreate	4
+../Core/uC-OS3/Source/os_mutex.c:169:13:OSMutexDel	13
+../Core/uC-OS3/Source/os_mutex.c:355:7:OSMutexPend	17
+../Core/uC-OS3/Source/os_mutex.c:599:13:OSMutexPendAbort	18
+../Core/uC-OS3/Source/os_mutex.c:738:7:OSMutexPost	13
+../Core/uC-OS3/Source/os_mutex.c:891:7:OS_MutexClr	1
+../Core/uC-OS3/Source/os_mutex.c:986:7:OS_MutexGrpAdd	1
+../Core/uC-OS3/Source/os_mutex.c:1011:7:OS_MutexGrpRemove	2
+../Core/uC-OS3/Source/os_mutex.c:1041:10:OS_MutexGrpPrioFindHighest	4
+../Core/uC-OS3/Source/os_mutex.c:1084:7:OS_MutexGrpPostAll	3

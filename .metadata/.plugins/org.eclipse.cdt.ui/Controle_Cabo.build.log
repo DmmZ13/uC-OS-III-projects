@@ -1,0 +1,38 @@
+15:23:13 **** Build of configuration Debug for project Controle_Cabo ****
+make -j8 all 
+arm-none-eabi-gcc "../App/Src/malha2.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F439xx -c -I"C:/Users/Visita/Documents/Controle_cabo2/Drivers/CMSIS/Device/ST/STM32F4xx/Include" -I"C:/Users/Visita/Documents/Controle_cabo2/Drivers/STM32F4xx_HAL_Driver/Inc" -I"C:/Users/Visita/Documents/Controle_cabo2/System" -I"C:/Users/Visita/Documents/Controle_cabo2/uC-CPU" -I"C:/Users/Visita/Documents/Controle_cabo2/uC-CPU/ARM-Cortex-M/ARMv7-M/GNU" -I"C:/Users/Visita/Documents/Controle_cabo2/uC-LIB" -I"C:/Users/Visita/Documents/Controle_cabo2/uC-LIB/Cfg/Template" -I"C:/Users/Visita/Documents/Controle_cabo2/uC-OS3/Ports/ARM-Cortex-M/ARMv7-M/GNU" -I"C:/Users/Visita/Documents/Controle_cabo2/uC-OS3/Source" -I"C:/Users/Visita/Documents/Controle_cabo2/Drivers/CMSIS/Include" -I"C:/Users/Visita/Documents/Controle_cabo2/App/Config" -I"C:/Users/Visita/Documents/Controle_cabo2/App/Inc" -I"C:/Users/Visita/Documents/Controle_cabo2/App/Src" -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"App/Src/malha2.d" -MT"App/Src/malha2.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "App/Src/malha2.o"
+../App/Src/malha2.c:15:59: error: invalid initializer
+   15 | volatile static uint16_t        motorPoliaTensaoRead[6] = 0;
+      |                                                           ^
+../App/Src/malha2.c: In function 'malha2Task':
+../App/Src/malha2.c:43:28: error: 'hadc3' undeclared (first use in this function); did you mean 'hadc2'?
+   43 |         HAL_ADC_Start_DMA(&hadc3, (uint32_t *) &motorPoliaTensaoRead, 6);
+      |                            ^~~~~
+      |                            hadc2
+../App/Src/malha2.c:43:28: note: each undeclared identifier is reported only once for each function it appears in
+../App/Src/malha2.c:59:32: error: 'motorBobinaTensaoRef' undeclared (first use in this function); did you mean 'motorPoliaTensaoRef'?
+   59 |                 int32_t erro = motorBobinaTensaoRef - (int32_t) motorBobinaTensaoRead;
+      |                                ^~~~~~~~~~~~~~~~~~~~
+      |                                motorPoliaTensaoRef
+../App/Src/malha2.c:59:65: error: 'motorBobinaTensaoRead' undeclared (first use in this function); did you mean 'motorPoliaTensaoRead'?
+   59 |                 int32_t erro = motorBobinaTensaoRef - (int32_t) motorBobinaTensaoRead;
+      |                                                                 ^~~~~~~~~~~~~~~~~~~~~
+      |                                                                 motorPoliaTensaoRead
+../App/Src/malha2.c:62:34: error: 'ERRO_DEATHZONE' undeclared (first use in this function)
+   62 |                 if (abs(erro) <= ERRO_DEATHZONE || (HAL_GPIO_ReadPin(SW3_GPIO_Port, SW3_Pin) == SW_ON)) {
+      |                                  ^~~~~~~~~~~~~~
+../App/Src/malha2.c:76:17: error: 'motorBobinaVel' undeclared (first use in this function)
+   76 |                 motorBobinaVel = vel_dac > DAC_MAX ? DAC_MAX : vel_dac;
+      |                 ^~~~~~~~~~~~~~
+../App/Src/malha2.c:76:44: error: 'DAC_MAX' undeclared (first use in this function); did you mean 'DEF_MAX'?
+   76 |                 motorBobinaVel = vel_dac > DAC_MAX ? DAC_MAX : vel_dac;
+      |                                            ^~~~~~~
+      |                                            DEF_MAX
+../App/Src/malha2.c:46:17: warning: unused variable 'motorPoliaTensaoRef' [-Wunused-variable]
+   46 |         int32_t motorPoliaTensaoRef = 2048;
+      |                 ^~~~~~~~~~~~~~~~~~~
+make: *** [App/Src/subdir.mk:37: App/Src/malha2.o] Error 1
+"make -j8 all" terminated with exit code 2. Build might be incomplete.
+
+15:23:13 Build Failed. 8 errors, 1 warnings. (took 539ms)
+

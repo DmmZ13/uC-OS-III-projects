@@ -1,0 +1,6 @@
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_hal_pwr_ex.c:161:19:HAL_PWREx_EnableBkUpReg	3
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_hal_pwr_ex.c:185:19:HAL_PWREx_DisableBkUpReg	3
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_hal_pwr_ex.c:209:6:HAL_PWREx_EnableFlashPowerDown	1
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_hal_pwr_ex.c:218:6:HAL_PWREx_DisableFlashPowerDown	1
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_hal_pwr_ex.c:231:10:HAL_PWREx_GetVoltageRange	1
+../Drivers/SYSTEM/STMCubeF4/STM32F4xx-HAL-Driver/src/stm32f4xx_hal_pwr_ex.c:252:19:HAL_PWREx_ControlVoltageScaling	3

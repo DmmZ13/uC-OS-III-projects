@@ -1,0 +1,5 @@
+../Core/APP/main.c:30:5:main	1
+../Core/APP/main.c:75:13:TaskStart	1
+../Core/APP/main.c:122:13:Task1	1
+../Core/APP/main.c:152:13:Task2	2
+../Core/APP/main.c:182:13:SystemClkCfg	2

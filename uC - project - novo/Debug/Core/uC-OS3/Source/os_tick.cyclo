@@ -1,0 +1,6 @@
+../Core/uC-OS3/Source/os_tick.c:60:7:OS_TickInit	1
+../Core/uC-OS3/Source/os_tick.c:94:7:OS_TickUpdate	1
+../Core/uC-OS3/Source/os_tick.c:157:14:OS_TickListInsert	8
+../Core/uC-OS3/Source/os_tick.c:297:7:OS_TickListInsertDly	7
+../Core/uC-OS3/Source/os_tick.c:377:7:OS_TickListRemove	4
+../Core/uC-OS3/Source/os_tick.c:459:15:OS_TickListUpdate	15
