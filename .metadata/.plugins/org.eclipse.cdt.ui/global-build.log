@@ -8850,3 +8850,157 @@ Finished building: default.size.stdout
  
 Finished building: uC - project - novo.list
  
+14:57:21 **** Incremental Build of configuration Debug for project uC - project - novo ****
+make -j8 all 
+arm-none-eabi-size  uC\ -\ project\ -\ novo.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17764	     20	   7252	  25036	   61cc	uC - project - novo.elf
+Finished building: default.size.stdout
+ 
+14:58:43 **** Incremental Build of configuration Debug for project uC - project - novo ****
+make -j8 all 
+arm-none-eabi-size  uC\ -\ project\ -\ novo.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17764	     20	   7252	  25036	   61cc	uC - project - novo.elf
+Finished building: default.size.stdout
+ 
+14:58:57 **** Incremental Build of configuration Debug for project uC - project - novo ****
+make -j8 all 
+arm-none-eabi-size  uC\ -\ project\ -\ novo.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17764	     20	   7252	  25036	   61cc	uC - project - novo.elf
+Finished building: default.size.stdout
+ 
+14:59:24 **** Incremental Build of configuration Debug for project uC - project - novo ****
+make -j8 all 
+arm-none-eabi-size  uC\ -\ project\ -\ novo.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17764	     20	   7252	  25036	   61cc	uC - project - novo.elf
+Finished building: default.size.stdout
+ 
+14:59:57 **** Incremental Build of configuration Debug for project uC - project - novo ****
+make -j8 all 
+arm-none-eabi-size  uC\ -\ project\ -\ novo.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17764	     20	   7252	  25036	   61cc	uC - project - novo.elf
+Finished building: default.size.stdout
+ 
+15:01:47 **** Incremental Build of configuration Debug for project uC - project - novo ****
+make -j8 all 
+arm-none-eabi-size  uC\ -\ project\ -\ novo.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17764	     20	   7252	  25036	   61cc	uC - project - novo.elf
+Finished building: default.size.stdout
+ 
+15:02:18 **** Incremental Build of configuration Debug for project uC - project - novo ****
+make -j8 all 
+arm-none-eabi-size  uC\ -\ project\ -\ novo.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17764	     20	   7252	  25036	   61cc	uC - project - novo.elf
+Finished building: default.size.stdout
+ 
+15:04:10 **** Incremental Build of configuration Debug for project uC - project - novo ****
+make -j8 all 
+arm-none-eabi-size  uC\ -\ project\ -\ novo.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17764	     20	   7252	  25036	   61cc	uC - project - novo.elf
+Finished building: default.size.stdout
+ 
+15:05:25 **** Incremental Build of configuration Debug for project uC - project - novo ****
+make -j8 all 
+arm-none-eabi-size  uC\ -\ project\ -\ novo.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17764	     20	   7252	  25036	   61cc	uC - project - novo.elf
+Finished building: default.size.stdout
+ 
+15:06:51 **** Incremental Build of configuration Debug for project uC - project - novo ****
+make -j8 all 
+arm-none-eabi-size  uC\ -\ project\ -\ novo.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17764	     20	   7252	  25036	   61cc	uC - project - novo.elf
+Finished building: default.size.stdout
+ 
+15:07:23 **** Incremental Build of configuration Debug for project uC - project - novo ****
+make -j8 all 
+arm-none-eabi-size  uC\ -\ project\ -\ novo.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17764	     20	   7252	  25036	   61cc	uC - project - novo.elf
+Finished building: default.size.stdout
+ 
+15:09:24 **** Incremental Build of configuration Debug for project uC - project - novo ****
+make -j8 all 
+arm-none-eabi-size  uC\ -\ project\ -\ novo.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17764	     20	   7252	  25036	   61cc	uC - project - novo.elf
+Finished building: default.size.stdout
+ 
+15:10:10 **** Incremental Build of configuration Debug for project uC - project - novo ****
+make -j8 all 
+arm-none-eabi-size  uC\ -\ project\ -\ novo.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17764	     20	   7252	  25036	   61cc	uC - project - novo.elf
+Finished building: default.size.stdout
+ 
+15:16:50 **** Incremental Build of configuration Debug for project uC - project - novo ****
+make -j8 all 
+arm-none-eabi-size  uC\ -\ project\ -\ novo.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17764	     20	   7252	  25036	   61cc	uC - project - novo.elf
+Finished building: default.size.stdout
+ 
+15:22:41 **** Incremental Build of configuration Debug for project uC - project - novo ****
+make -j8 all 
+arm-none-eabi-size  uC\ -\ project\ -\ novo.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17764	     20	   7252	  25036	   61cc	uC - project - novo.elf
+Finished building: default.size.stdout
+ 
+15:39:22 **** Incremental Build of configuration Debug for project uC - project - novo ****
+make -j8 all 
+arm-none-eabi-size  uC\ -\ project\ -\ novo.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17764	     20	   7252	  25036	   61cc	uC - project - novo.elf
+Finished building: default.size.stdout
+ 
+15:41:32 **** Incremental Build of configuration Debug for project uC - project - novo ****
+make -j8 all 
+arm-none-eabi-size  uC\ -\ project\ -\ novo.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17764	     20	   7252	  25036	   61cc	uC - project - novo.elf
+Finished building: default.size.stdout
+ 
+15:41:57 **** Incremental Build of configuration Debug for project uC - project - novo ****
+make -j8 all 
+arm-none-eabi-size  uC\ -\ project\ -\ novo.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17764	     20	   7252	  25036	   61cc	uC - project - novo.elf
+Finished building: default.size.stdout
+ 
+15:42:20 **** Incremental Build of configuration Debug for project uC - project - novo ****
+make -j8 all 
+arm-none-eabi-size  uC\ -\ project\ -\ novo.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17764	     20	   7252	  25036	   61cc	uC - project - novo.elf
+Finished building: default.size.stdout
+ 
+15:42:42 **** Incremental Build of configuration Debug for project uC - project - novo ****
+make -j8 all 
+arm-none-eabi-size  uC\ -\ project\ -\ novo.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17764	     20	   7252	  25036	   61cc	uC - project - novo.elf
+Finished building: default.size.stdout
+ 
+16:18:37 **** Incremental Build of configuration Debug for project uC - project - novo ****
+make -j8 all 
+arm-none-eabi-size  uC\ -\ project\ -\ novo.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17764	     20	   7252	  25036	   61cc	uC - project - novo.elf
+Finished building: default.size.stdout
+ 
+16:18:42 **** Incremental Build of configuration Debug for project uC - project - novo ****
+make -j8 all 
+arm-none-eabi-size  uC\ -\ project\ -\ novo.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17764	     20	   7252	  25036	   61cc	uC - project - novo.elf
+Finished building: default.size.stdout
+ 

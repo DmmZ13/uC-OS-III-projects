@@ -8,6 +8,8 @@
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="OS_CFG_TICK_RATE"/>
+			<item value="__HAL_RCC_GPIOA_CLK_ENABLE();"/>
 			<item value="DAC"/>
 			<item value="RDERR"/>
 		</list>
